@@ -1,0 +1,16 @@
+{
+  "name": "npmpoc_approach2",
+  "version": "1.0.5",
+  "description": "",
+  "main": "lib/index",
+  "typings": "lib/index",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "typescript": "^2.3.4"
+  }
+}
